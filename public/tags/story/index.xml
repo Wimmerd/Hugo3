@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>story on Call me Sam</title>
+    <link>https://example.com/tags/story/</link>
+    <description>Recent content in story on Call me Sam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Dec 2019 15:05:41 +0100</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/story/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Series 2019</title>
+      <link>https://example.com/posts/series-2019/</link>
+      <pubDate>Thu, 26 Dec 2019 15:05:41 +0100</pubDate>
+      
+      <guid>https://example.com/posts/series-2019/</guid>
+      <description>Best action scene: one before last episode of Sharp Objects. (Yes, I know it is a series of 2018, but in Belgium it was broadcast later.)
+iets</description>
+    </item>
+    
+  </channel>
+</rss>

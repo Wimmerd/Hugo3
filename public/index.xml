@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Call me Sam</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Call me Sam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Dec 2019 15:05:41 +0100</lastBuildDate>
+    
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Series 2019</title>
+      <link>https://example.com/posts/series-2019/</link>
+      <pubDate>Thu, 26 Dec 2019 15:05:41 +0100</pubDate>
+      
+      <guid>https://example.com/posts/series-2019/</guid>
+      <description>Best action scene: one before last episode of Sharp Objects. (Yes, I know it is a series of 2018, but in Belgium it was broadcast later.)
+iets</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Thu, 26 Dec 2019 14:53:18 +0100</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>I am a philosoper and artist living in in Ghent, Belgium. I was born 25th of June 1972.
+I have a philosophy degree from the University of Ghent (1990-1994). I also did a PhD (1999-2001) and was a post-doctoral researcher for a while.
+For some years now I am employed as a cleaning worker, which gives me the time to pursue philosophy, theology and drawing. Some of my work in philosophy can be found on a blog: The Ghent School for Metaphysics.</description>
+    </item>
+    
+  </channel>
+</rss>
